@@ -1,0 +1,1 @@
+export { JinguLogo } from './Jingulogo'

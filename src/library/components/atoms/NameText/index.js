@@ -1,0 +1,1 @@
+export { NameText } from './NameText';
